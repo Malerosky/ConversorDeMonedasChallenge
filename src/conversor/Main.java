@@ -46,16 +46,16 @@ public class Main {
                     case 5 -> resultado = currencyService.convert("ARS", "BRL", cantidad, rates);
                     case 6 -> resultado = currencyService.convert("BRL", "CLP", cantidad, rates);
                     default -> {
-                        System.out.println("❌ Opción inválida.");
+                        System.out.println("Opción inválida.");
                         continue;
                     }
                 }
 
-                System.out.printf("✅ Resultado: %.2f%n", resultado);
+                System.out.printf("Resultado: %.2f%n", resultado);
             }
 
         } catch (Exception e) {
-            System.out.println("⚠️ Error al obtener datos de la API: " + e.getMessage());
+            System.out.println("Error al obtener datos de la API: " + e.getMessage());
         }
     }
 }
