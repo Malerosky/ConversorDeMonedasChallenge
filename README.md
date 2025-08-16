@@ -1,6 +1,10 @@
 <h1>Conversor de Monedas</h1>
 <h2>Proyecto de Alura Latam</h2>
 
+<3>¿En que consiste el proyecto?<3>
+Consiste en un programa bien basico que permite hacer una conversion de monedas. Este programa accede a una API que obtiene informacion actualizada del valor de cada moneda. El motivo principal de crear este programa era poder practicar la programacion en Java orientada objetos
+<img width="1920" height="908" alt="Captura de pantalla (108)" src="https://github.com/user-attachments/assets/b8fb5e57-8610-4489-873b-dc1fc96d691f" />
+
 
 <h3>¿Como ingresar al proyecto<h3>
   
@@ -9,25 +13,24 @@ Para poder ingresar al juego se debe hacer directamente desde el programa Intell
 <img width="1920" height="1080" alt="Captura de pantalla (106)" src="https://github.com/user-attachments/assets/8b536409-9e20-4e34-a82c-57b2e966ddd6" />
 
 
-<h3>Funcionalidad del juego</h3>
-Primero debes ingresar la cantidad de nombres que quieras en el input y pulsar el boton añadir
+<h3>Funcionalidad del conversor</h3>
 
-![Captura de pantalla (40)](https://github.com/user-attachments/assets/bf3224c3-30dd-45d1-8627-4c03414a8c48)
+Se debe dar un run en la aplicacion para poder acceder a la consola
 
-Luego debes añadir cuantos nombres quieras
+<img width="1920" height="1080" alt="Captura de pantalla (107)" src="https://github.com/user-attachments/assets/d3dce37c-aeab-4732-a97d-44194d6313a6" />
 
-![Captura de pantalla (41)](https://github.com/user-attachments/assets/f3544a9f-298c-464a-b2e5-1ab96b8a3696)
+Luego seleccionar la opcion de conversion deseada y l cantidad
 
-Y por ultimo debes darle al boton sortear amigo
+<img width="1920" height="1080" alt="Captura de pantalla (109)" src="https://github.com/user-attachments/assets/9527e23f-f35b-4d3e-a8ea-655806c8103a" />
 
-![Captura de pantalla (42)](https://github.com/user-attachments/assets/2a40947b-9a66-44c3-a4a1-41e598fbdccf)
+Es un bucle por lo que el programa no se cerrara hasta que se da a la ultima opcion de salir
+
+<img width="1920" height="1080" alt="Captura de pantalla (110)" src="https://github.com/user-attachments/assets/d0707727-3212-462d-877d-f82d5b2be9e3" />
+
   
 <h3>Finalidad del proyecto</h3>
-Este proyecto tiene la finalidad de poner en practica los conocimientos aprendidos en el curso "principiante en programacion" de Alura. 
+Este proyecto tiene la finalidad de poner en practica los conocimientos aprendidos en el curso "Java orientado a objetos" de Alura. 
 
 
-<h3>Cosas a mejorar</h3>
-Obviamente hay mucho que aprender y mejorar aun, pero para ser mas especifico seria bueno haber incluido una parte en el codigo que solo aceptara nombres reales de pesonas ya que si se pone cualquier palabra el input la acepta como valida.
 
-<h3>Aclaraciones</h3>
-En el codigo quedaron en forma de texto (bajo el comando //) partes del codigo que intete crear para poder darle funcionalidad a la pagina, pero la verdad es que no tenia las herramientas necesarios por lo que pedi ayuda de chathpt para poder hacer mi codigo. Espero en el futuro poder terminar el codigo como lo tenaia en mente, aun asi lo veo complicado por que durante los cursos no nos enseñaron los comandos para ciertas funcionaliades que eran necesarios para este proyecto, por tanto el hecho de pedir esta ayuda fue totalmente valido.
+
