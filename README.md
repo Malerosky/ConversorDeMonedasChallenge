@@ -1,7 +1,7 @@
 <h1>Conversor de Monedas</h1>
 <h2>Proyecto de Alura Latam</h2>
 
-<3>¿En que consiste el proyecto?<3>
+<h3>¿En que consiste el proyecto?<h3>
 Consiste en un programa bien basico que permite hacer una conversion de monedas. Este programa accede a una API que obtiene informacion actualizada del valor de cada moneda. El motivo principal de crear este programa era poder practicar la programacion en Java orientada objetos
 <img width="1920" height="908" alt="Captura de pantalla (108)" src="https://github.com/user-attachments/assets/b8fb5e57-8610-4489-873b-dc1fc96d691f" />
 
